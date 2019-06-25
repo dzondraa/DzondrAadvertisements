@@ -1,0 +1,119 @@
+#navv{
+    background-color: rgb(224, 172, 27)!important;
+    color:#fff!important;
+}
+.col-lg-12{
+    padding-left:0px!important;
+    padding-right: 0px;
+}
+#navv a{
+    color:#fff;
+}
+#right{
+    position: absolute;
+    right: 0px!important;
+    margin-right: 10px;
+}
+#absolute{
+    z-index: 1000000;
+    width: 300px;
+    position: absolute!important;
+    right: 0px;
+    text-align: center;
+    background-color: rgba(255, 255, 255,1);
+}
+#mistakeslog p{
+    color:red;
+}
+#mm p{
+    color : red;
+}
+#jumb{
+    background: url("../img/jumb.jpg");
+}
+#jumb .p , #jumb h1{
+    background-color: rgba(255, 255, 255 , 0.8);
+    border-radius: 5px;
+}
+#lista{
+    position: absolute;
+    background-color: #fff;
+    width: 100%;
+    z-index: 1000;
+}
+#lista p{
+    display: block;
+    cursor: pointer;
+    margin-bottom: 2px!important;
+}
+#lista p:hover{
+    background-color: #007bff;
+    color:#fff;
+
+}
+#search{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+#trazi{
+    width:100%!important;
+    
+    height: 100%;
+}
+.moja{
+    margin: 10px;
+}
+.as{
+    height: 200px;
+    width: 200px;
+}
+#map {
+    height: 400px;
+  }
+.boja{
+    border:1px solid gray;
+    border-radius:5px;
+}
+#search .form-control{
+    border:1px solid black;
+}
+.checked{
+    border: 2px solid rgb(34, 170, 21);
+}
+.moja1{
+    width: 48%!important;
+    border: 1px solid gray;
+}
+.imi{
+    height: 200px;
+    width: 100%;
+}
+.moja1 .card-body{
+    height: 70%;
+    width: 100%;
+}
+.cen{
+    height: 20%;
+    width: 100%;
+    padding: 0 10px;
+}
+.zaIm{
+    width: 40%;
+}
+.neSlika{
+    width: 58%;
+}
+.cenis{
+    color : #c8264b;
+}
+#add{
+    top : 50px;
+    left : 50px;
+}
+.pagination li{
+    cursor: pointer;
+}
+#pagin{
+    display: none;
+}
